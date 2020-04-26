@@ -1,1 +1,0 @@
-kubeadm join 192.168.50.10:6443 --token kmsg5c.omx499gaemty4i0j     --discovery-token-ca-cert-hash sha256:d2c33f27f25d695b01d6ceb285180b27ad75e34b1b34343565c986f6bea0334c 
